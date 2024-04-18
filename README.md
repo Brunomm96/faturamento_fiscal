@@ -1,2 +1,2 @@
 # faturamento_fiscal
-projeto de página HTML que exibe faturamento fiscal da empresa
+HTML page design which displays the company's tax revenue
